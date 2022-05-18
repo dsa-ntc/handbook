@@ -1,3 +1,4 @@
+# Onboarding
 After a new member goes through the mobilization process they should get access to the primary tools we work with. :
 
 - [Slack](#slack)
@@ -15,3 +16,7 @@ Mobilized members should be added to the `dsausa/ntc` group (this group) with th
 * `Developer` - Default access for NTC mobilized members and collaborators who need to contribute to the repository. Should be the default group for projects as well. Developers _can_ edit project Wikis.
 * `Maintainer` - NTC Project Stewards, NTC Department and Commission Leaders (Maybe not SC directly, Ian/John's role?), appropriate technical leads where present. Basically this should be seen as formal or informal leadership and has the final say for merging code, along with adding or removing contributors under this project or project group.
 * `Owner` - Staff, NTC Leadership. Has power to delete projects. Should be treated with high security.
+
+New members going through onboarding will go through two meetings before being full members:
+- A general onboarding meeting that is one hour in length. It will include the history of the NTC and what to expect regardless of your anticipated role. The new member’s mobilizer will allow access to this.
+- A specific onboarding meeting with the Steward that the new member will report to.
