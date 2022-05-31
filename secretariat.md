@@ -1,6 +1,6 @@
 # Secretariat
 - Steward
-- General Member
+- Contributor
 
 ## Steward expectations and SOPs
 Stewards at all levels and regardless of department or commission are expected to:
