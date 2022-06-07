@@ -1,6 +1,6 @@
 # Handbook
 
-This handbook builds upon the NTC [bylaws](/BYLAWS.md) by explaining **how* we work together.
+This handbook builds upon the NTC [bylaws](/ntc-bylaws.md) by explaining **how* we work together.
 
 ## Org Structure
 
