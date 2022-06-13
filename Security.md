@@ -4,7 +4,9 @@ We treat all information online as at risk of public exposure. This includes cha
 
 ## Securing your identity in the commit log
 
-Some contributors choose to separate their political work from other spheres. If you would like to commit using a different name or email address you can override the local git configuration from a repository. Gitlab has instructions for setting up an anonymous account-specific email address [here](https://docs.gitlab.com/ee/user/profile/index.html#use-an-automatically-generated-private-commit-email). Github has a similar functionality.
+Some contributors choose to separate their political work from other spheres. When pushing work to a git host like Github or Gitlab there are two primary safeguards available: hiding your email address and using an entirely separate account. The latter (literally creating a second account with the hosting service) can be cumbersome, but a good choice if you want no connection between a public persona and your DSA-related work.
+
+In addition, it's always a good idea to commit from a host-provided `noreply` email address. This limits exposure of your details to bots or other users who gain access to a repo. If you would like to commit using a different name or email address you can override the local git configuration from a repository. See more detailed documentation for [Gitlab](https://docs.gitlab.com/ee/user/profile/index.html#use-an-automatically-generated-private-commit-email) and [Github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address).
 
 ```shell
 # Within a dsa repository
