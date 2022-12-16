@@ -80,3 +80,5 @@ Resources
 - **Outcomes** -
 - **SDLC (Software Development Life Cycle)** - (utilizing best practices, source code control, dev-qa-live and ongoing maintenance processes)
 - **POC - Proof of Concept**
+- **Commission** - what is a commission in NTC parlance? how is it different than / similar to a "project" or department?
+- **Department** - what is a department in NTC parlance? how is it different than / similar to a commission?
