@@ -1,23 +1,23 @@
-site_name: obsidian-mkdocs template
+site_name: DSA NTC Handbook
 
 theme:
-    name: 'material'
-    palette:
-
+  name: "material"
+  features:
+    - content.action.edit
+  icon:
+    logo: fontawesome/solid/computer
+    repo: fontawesome/brands/github
+  palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: dsared
-      accent: indigo
+      scheme: dsared
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: dsared
-      accent: blue
+      scheme: dsared-dark
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -56,3 +56,5 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
+
+repo_url: https://github.com/dsa-ntc/handbook
