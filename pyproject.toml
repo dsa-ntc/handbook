@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "handbook"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+mkdocs = "^1.4.2"
+mkdocs-material = "^9.0.9"
+mkdocs-roamlinks-plugin = "^0.2.0"
+mkdocs-mermaid2-plugin = "^0.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

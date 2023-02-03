@@ -1,0 +1,16 @@
+[data-md-color-scheme="dsared"] {
+    --md-primary-fg-color:        #EC1F27;
+    --md-primary-fg-color--light: #ff413d;
+    --md-primary-fg-color--dark:  #af090f;
+  }
+
+[data-md-color-scheme="dsared-dark"] {
+  --md-primary-fg-color:        #6d0609;
+  --md-primary-fg-color--light:        #F4797E;
+  --md-default-bg-color:        #3B3838;
+  --md-typeset-color:          #fff;
+  --md-default-fg-color--light:        #F4797E;
+  --md-accent-fg-color: #F4797E;
+  
+  --md-typeset-a-color: #F4797E
+}
