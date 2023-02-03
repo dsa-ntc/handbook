@@ -82,3 +82,4 @@ Resources
 - **POC - Proof of Concept**
 - **Commission** - what is a commission in NTC parlance? how is it different than / similar to a "project" or department?
 - **Department** - what is a department in NTC parlance? how is it different than / similar to a commission?
+- **Subcommittee** - what is a subcommittee in NTC parlance? how does it relate to commissions, depts, "projects", or the steering committee?
