@@ -2,6 +2,8 @@
 
 Getting the help you need to answer a question, address an issue, or get unblocked can be difficult. This page offers some high-level indicators of where to go for certain kinds of help you may need. 
 
+Please note: be mindful of what information you share in public communication channels when seeking help. Do not share developer keys or application secrets in Slack. Use an encrypted service for this and only share with other members that need them (when in doubt, ask a project [steward](./stewards.md).
+
 If you need help of a kind that this page does _not_ address, feel free to ask in the [#discussion](https://dsa-ntc.slack.com/channels/discussion) slack channel. Once you get the help you need, please update this page with information on how you resolved your issue by following the step in the [How to Contribute](./contributing.md) article to help others in the future!
 
 ## For new joiners
