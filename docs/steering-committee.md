@@ -1,5 +1,5 @@
 # Steering Committee
-The Steering Committee (SC) is the leadership body of the NTC. Its members serve 1-year terms, running from October 1st to September 30th, during which they report to the National Political Committee (NPC) and are responsible for coordinating between the NPC, DSA's national membership, staff, and the NTC membership to determine priorities and meet the technological needs of the organization.
+The Steering Committee (SC) is the leadership body of the NTC. Its members serve 1-year terms, running from October 1st to September 30th the following year, during which they report to the National Political Committee (NPC) and are responsible for coordinating between the NPC, DSA's national membership, staff, and the NTC membership to determine priorities and meet the technological needs of the organization.
 
 ## Steering Committee Positions
 The SC consists of nine total members: a chair from the National Political Committee (NPC), three officers with varying roles, three subcommittee liaisons, one at-large NTC member, and one DSA staff member. Seven of the nine positions are selected via open application per the NPC's standards. Those members include:  
@@ -9,7 +9,7 @@ The SC consists of nine total members: a chair from the National Political Commi
   4. Liaison to the Members Subcommittee
   5. Liaison to the Formations Subcommittee
   6. Liaison to the Engagement Subcommittee
-  7. One At-Large NTC Member 
+  7. At-Large NTC Member 
 
 ## Relevant Resources 
 
