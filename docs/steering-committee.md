@@ -15,4 +15,4 @@ The SC consists of eight total members: a chair from the National Political Comm
 
 Many details about the SC can be found in Article IV of the NTC [bylaws](/docs/gov-docs.md). 
 
-The current SC members can be found in the [index](/docs/index.md).
+The current SC members can be found in the [article on the NTC's organizational structure](/docs/organizational-structure.md).
