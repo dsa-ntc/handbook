@@ -2,7 +2,7 @@
 
 Documents that *describe* policy go in the [handbook](./README.md). Documents that *define* policy go the the [gov docs]([https://github.com/dsausa/gov-docs](https://drive.google.com/drive/folders/1Q02NXa22YlZ1GMreLVUoPgKIliu21DtT?usp=share_link))
 
-How do you make changes to the gov docs? Read the official policy in full [here](https://docs.google.com/document/d/17ySg1Apj9KHTbXaIyA_F4pqEPRSM6u_qS1GCf97LwvA/edit?usp=sharing)
+How do you make changes to the gov docs? Read the official policy in full [here](https://docs.google.com/document/d/17ySg1Apj9KHTbXaIyA_F4pqEPRSM6u_qS1GCf97LwvA/edit?usp=sharing).
 
 But in short:
 1. NTC member creates a merge request with the changes they want made.
