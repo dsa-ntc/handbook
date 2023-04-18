@@ -6,13 +6,13 @@ The SC consists of eight total members: a chair from the National Political Comm
   1. Vice Chair (one of the three NTC officers)
   2. Tools Coordinator (one of the three NTC officers)
   3. Secretary (one of the three NTC officers)
-  4. Liaison to the Members Subcommittee
-  5. Liaison to the Formations Subcommittee
+  4. Liaison to the Member Services Subcommittee
+  5. Liaison to the Formation Services Subcommittee 
   6. Liaison to the Engagement Subcommittee
   7. At-Large NTC Member 
 
 ## Relevant Resources 
 
 Many details about the SC can be found in Article IV of the NTC [bylaws](/docs/gov-docs.md). 
-
-The current SC members can be found in the [article on the NTC's organizational structure](/docs/organizational-structure.md).
+The current SC members can be found in **[here](https://docs.google.com/spreadsheets/d/1n3i9pnLHmOJ4yOFM9rBIzuDEoakuzphUpMMTPc2iY4A/edit?usp=sharing)**.
+Also refer to the [article on the NTC's organizational structure](/docs/organizational-structure.md) for details on the SC's place in the NTC's organizational structure.

@@ -8,7 +8,7 @@ The NTC is a national committee of the DSA. National committees are volunteer or
 
 The NTC is led by a **[Steering Committee (SC)](/docs/steering-committee.md)** of 7 members. Members of the SC are selected per the NPC's open applications standards once a year, and serve from October 1st to the following September 30th. Annual applications for SC candidacy open in August, with new SC members being confirmed at the end of September.
 
-The SC meets twice a month and publishes meeting minutes. Such meetings are generally open to NTC's membership, unless they pertain to sensitive issues such as security. Current members of the NTC SC can be found **[here](https://docs.google.com/spreadsheets/d/1n3i9pnLHmOJ4yOFM9rBIzuDEoakuzphUpMMTPc2iY4A/edit?usp=sharing)**. As a national committee, the NTC and the SC answer directly to the National Political Committee (NPC, mentioned above) - the 16-member elected body that is DSA's primary political leadership and "board of directors".
+The SC meets twice a month and publishes meeting minutes. Such meetings are generally open to NTC's membership, unless they pertain to sensitive issues such as security. Current members of the NTC SC can be found **[here](https://docs.google.com/spreadsheets/d/1n3i9pnLHmOJ4yOFM9rBIzuDEoakuzphUpMMTPc2iY4A/edit?usp=sharing)**. As a national committee, the NTC and the SC answer directly to the National Political Committee (NPC, mentioned above) - the 16-member elected body that is DSA's primary political leadership and "board of directors". The SC is responsible for coordinating between the NPC, DSA's national membership, staff, and the NTC membership to determine priorities and meet the technological needs of the organization.
 
 ## Subcommittees
 
