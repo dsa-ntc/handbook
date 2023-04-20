@@ -6,7 +6,7 @@ The NTC is a national committee of the DSA. National committees are volunteer or
 
 ## Leadership
 
-The NTC is led by a **[Steering Committee (SC)](/docs/steering-committee.md)** of 7 members. Members of the SC are selected per the NPC's open applications standards once a year, and serve from October 1st to the following September 30th. Annual applications for SC candidacy open in August, with new SC members being confirmed at the end of September.
+The NTC is led by a **[Steering Committee (SC)](/docs/steering-committee.md)** of 7 members. Members of the SC are selected per the National Political Committee's (NPC) open applications standards once a year, and serve from October 1st to the following September 30th. Applications are reviewed by the NPC's liaison to the NTC, and passed to the NPC with recommendations and comments for approval. Annual applications for SC candidacy open in August, with new SC members being confirmed at the end of September.
 
 The SC meets twice a month and publishes meeting minutes, which can be found in the NTC Google Drive. Such meetings are generally open to NTC's membership, unless they pertain to sensitive issues such as security. Current members of the NTC SC can be found **[here](https://docs.google.com/spreadsheets/d/1n3i9pnLHmOJ4yOFM9rBIzuDEoakuzphUpMMTPc2iY4A/edit?usp=sharing)**. 
 
@@ -25,4 +25,4 @@ The process for proposing that a new project or subcommittee be created is fairl
 
 ## Membership
 
-Any DSA member in good standing can become a member of the NTC by **[indicating interest](https://tech.dsausa.org/join-us/)** and going through the onboarding process, including a meeting with an organizer authorized by the SC. NTC members are volunteer contributors to its work.
+Any DSA member in good standing can become a member of the NTC by **[indicating interest](https://tech.dsausa.org/join-us/)** and going through the onboarding process, including a meeting with an organizer authorized by the SC. NTC members are volunteer contributors to its work. Members are generally channelled to subcommittees and projects that match their skills and interests during on-boarding to the NTC, but they can get involved where and how they want, and to the extent that they are able.
