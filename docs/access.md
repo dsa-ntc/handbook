@@ -1,13 +1,33 @@
-# Access Control Matrix
+# Access
 
-Lay out the [access control matrix](https://en.wikipedia.org/wiki/Access_control_matrix) levels and some broad scope of what these do.
+You will need access to several applications to do stuff in the NTC. When you first join you will need get access to these resources. You should ask your team steward for access and ping #ask-steering for help. Steering is ultimately in charge of administrating all access control permissions.
+
+## Google Groups
+Everyone needs access to this, as it is how we administrate gDrive and mailing list access and permissions. You will probably only need a member permission.
+
+The NTC list serv is: ntc-members@dsacommittees.org
+
+Your individual team should have a sub-group under that org for administrating your gDrive stuff.
+
+## Github
+There are two Github orgs:
+- [DSA USA administrated by the DSA national org](https://github.com/dsausa). Access to this more limited.
+- [DSA NTC](https://github.com/dsa-ntc). Administrated by the NTC. You will probably be given access to a repo in this repo.
+
+If you are given access to a project repo that is NOT in one of these orgs please message #ask-steering or #c-vitalization to get the issue sorted. We are trying to avoid further fracturing our code repositories.
+
+## Wordpress
+You will only be given WP access if you actively working on a WP project or as a contributor or editor. See your team steward about getting access.
+
+## Figma
+You'll be given access to this by your steward as needed.
+
+## Sentry.io
+You'll be given access to this by your steward as needed.
+
+## Digital Oceans
+You'll be given access to this by your steward as needed.
 
 
-
-
-Access matrix for gitlab (no longer using this but moving this to this article for later reference):
-
-* `Guest/Reporter` roles - More appropriate for my external-facing projects, Should be done per project just to keep the overall membership spread small.
-* `Developer` - Default access for NTC mobilized members and collaborators who need to contribute to the repository. Should be the default group for projects as well. Developers _can_ edit project Wikis.
-* `Maintainer` - NTC Project Stewards, NTC Department and Commission Leaders (Maybe not SC directly, Ian/John's role?), appropriate technical leads where present. Basically this should be seen as formal or informal leadership and has the final say for merging code, along with adding or removing contributors under this project or project group.
-* `Owner` - Staff, NTC Leadership. Has power to delete projects. Should be treated with high security.
+# Steward looking to add access to your project?
+Ping #ask-steering for assistance.
