@@ -27,7 +27,8 @@ If you need help of a kind that this page does _not_ address, feel free to ask i
 - The NTC centralises coordination with DSA staff members, in order to avoid bombarding our hard-working comrades with requests. Post the questions you have for staff in [#ask-steering](https://dsa-ntc.slack.com/channels/ask-steering). A SC member will add your request to the [Staff Coordination Tracker](https://docs.google.com/document/d/1zJmWGcNgOwEWhQBN8RgPc38lqTrdG9CbzqJS2pXea84/edit), where such requests are prioritised, and contact and progress on them is tracked. Please do not tag staff members in the NTC slack or directly email them!
 
 ## For help with access and security
-- Consult the [Access Control Matrix (TODO)](#).
+- Consult the [Access Control Matrix](./access.md).
+
 - For help with information security see the [Security](./security.md) article. You can also ask for help in [#security](https://dsa-ntc.slack.com/channels/security).
 
 ## For emergencies
