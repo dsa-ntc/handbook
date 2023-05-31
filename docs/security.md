@@ -4,7 +4,7 @@
 
 We treat all information online as at risk of public exposure. This includes chat logs and communications on NTC infrastructure as well as the git histories of private repositories.
 
-Report security concerns within the NTC to [ntc@dsacommittees.org](mailto:ntc@dsacommittees.org) and [techteam@dsausa.org](techteam.dsausa.org).
+Report security concerns within the NTC to [ntc@dsacommittees.org and techteam@dsausa.org](mailto:ntc@dsacommittees.org,techteam@dsausa.org).
 
 ## For members and contributors
 
