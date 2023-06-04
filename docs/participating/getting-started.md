@@ -4,7 +4,7 @@ Welcome to the DSA National Tech Committee!
 
 This page is to help onboard you and get you acclimated.
 
-This handbook is a [living document](https://en.wikipedia.org/wiki/Living_document). It’s likely that some processes will seem foggy, unresponsive or just poorly-documented. Other documentation will fall out of date. When you see something like this, please follow the steps in the [How to Contribute article](./contributing.md) to help us improve.
+This handbook is a [living document](https://en.wikipedia.org/wiki/Living_document). It’s likely that some processes will seem foggy, unresponsive or just poorly-documented. Other documentation will fall out of date. When you see something like this, please follow the steps in the [How to Contribute article](../contributing) to help us improve.
 
 - New Member Initiates joining NTC
   - Either by webform: https://actionnetwork.org/forms/dsantc-signup?source=direct_link
