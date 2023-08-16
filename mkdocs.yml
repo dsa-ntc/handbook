@@ -28,7 +28,11 @@ extra_css:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
   - pymdownx.arithmatex:
       generic: true
   # - pymdownx.superfences
@@ -36,7 +40,8 @@ markdown_extensions:
   # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
-  - def_list
+  - pymdownx.tabbed:
+      alternate_style: true 
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -58,3 +63,4 @@ extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 repo_url: https://github.com/dsa-ntc/handbook
+edit_uri: edit/dev/docs/
