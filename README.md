@@ -24,7 +24,7 @@ docker build -t handbook:latest .
 Run a live session locally.
 
 ```shell
-docker run --rm -it -p 8000:8000 -v ${PWD}:/app handbook
+docker run --rm -it -p 8000:8000 -v ${PWD}:/docs handbook
 ```
 
 ## Running locally without Docker
