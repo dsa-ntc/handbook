@@ -27,3 +27,17 @@ approval--yes-->merge[Content Governance org merges changes into dev branch]
 --> final_merge([Merge into main branch])
 
 ```
+
+
+> From the forum
+>
+> All Handbook pages are Wiki posts to empower NTC members to all contribute
+> to actively documenting our practices, policies, projects, and any other
+> knowledge that may need to be known. Members are responsible for ensuring
+> Project documentation and any relevant Handbook pages for their practice
+> area are kept up to date, under the direction of their Project’s Lead and
+> Subcommittee liason.
+>
+> To edit a Handbook page, navigate to the Forum topic and click the :memo:
+> Edit button at the bottom of each post. This will open up the Forum’s
+> markdown editor screen where you can begin updating a document.

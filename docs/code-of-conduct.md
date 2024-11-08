@@ -1,5 +1,7 @@
 # NTC Code of Conduct
 
+TODO See [NTC Code of Conduct on the forum](https://discussion.dsausa.org/docs?topic=30919).
+
 All NTC members are bound by the [DSA code of conduct for members](https://www.dsausa.org/dsa-code-of-conduct-for-members/).
 
 ## Community expectations

@@ -1,9 +1,36 @@
 site_name: DSA NTC Handbook
 
+nav:
+  - Handbook:
+    - index.md
+    - getting-started.md
+    - organizational-structure.md
+    - code-of-conduct.md
+    - steering-committee.md
+    - contributing.md
+  - Unorganized Pages:
+    - access.md
+    - proposals.md
+    - sync-meeting.md
+    - team-onboarding.md
+    - how-to-get-help.md
+    - mobilizer-onboarding.md
+    - google-groups.md
+    - stewards.md
+    - gov-docs.md
+    - security.md
+    - team-roles.md
+    - glossary.md
 theme:
   name: "material"
   features:
     - content.action.edit
+#    - navigation.expand
+    - navigation.indexes
+    - navigation.path
+    - navigation.sections
+    - navigation.tabs
+#    - navigation.tabs.sticky
   icon:
     logo: fontawesome/solid/computer
     repo: fontawesome/brands/github

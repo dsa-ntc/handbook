@@ -1,11 +1,11 @@
 # Handbook
 
-This handbook builds upon the NTC [bylaws](./gov-docs.md) by explaining \*_how_
-we work together.
+This handbook describes the National Tech Committee, how we are organized, and how to be an effective
+contributor to it.
 
 ## New to the National Tech Committee?
 
-Start [here](./getting-started.md).
+Start with [Getting Started](./getting-started.md).
 
 ## How is the organization structured?
 
@@ -16,7 +16,7 @@ If you want to to understand the org as a whole, check out
 
 Check out [How to Contribute](./contributing.md).
 
-### Code of Conduct
+## Code of Conduct
 
 NTC members are bound to the
 [DSA National Code of Conduct](https://www.dsausa.org/dsa-code-of-conduct-for-members/).
