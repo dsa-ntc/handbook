@@ -1,7 +1,43 @@
 # NTC Handbook
 
-This README should lay technical tasks like how to build the handbook frontend locally. This README is not part of the handbook, it's part of the frontend build process.
+This README should lay technical tasks like how to build the handbook
+frontend locally. This README is not part of the handbook, it's part
+of the frontend build process.
 
-## Running mkdocs locally
+## Editing the handbook via GitHub
 
-To develop against our public-facing handbook (everything in [/docs](./docs)), you will need docker and vscode installed, along with the dev containers extension for vscode. With docker running, run the dev containers 'rebuild and launch' command from VSCode to load the application in a containerized environment. From there you can start the application from the vscode shell with `mkdocs serve`.
+In GitHub, navigate to the file you want to edit and click the edit button.
+
+Click "Commit changes...".
+
+Click "Commit changes".
+
+## Running locally
+
+To develop on our handbook (everything in [/docs](./docs)), it's best to use
+Docker.  But if not, it's also possible to use a virtual environment.
+
+```shell
+docker build -t handbook:latest .
+```
+
+Run a live session locally.
+
+```shell
+docker run --rm -it -p 8000:8000 -v ${PWD}:/app handbook
+```
+
+## Running locally without Docker
+
+Create a virtual environment and activate it.
+
+```shell
+python3 -m venv venv
+source vent/bin/activate
+```
+
+pip install the same plugins listed in the Dockerfile.
+
+```shell
+mkdocs serve
+```
