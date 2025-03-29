@@ -39,7 +39,7 @@
 
 Other Resources
 
-[Commission and Department Index](https://docs.google.com/spreadsheets/d/17pfpMQ6VYcK1TYxAvVAGuWnYu8MYQZ-ruUC7z0VjPig/edit#gid=0) - This is a list of all current NTC commissions and departments.
+[Commission and Department Index](https://docs.google.com/spreadsheets/d/18YxM8qcQj20KiT7hbPS_ICj-dsps8LV_4vqsyWnemwA/edit) - This is a list of all current NTC commissions and departments.
 
 [Mobilization Department Resources Folder](https://drive.google.com/drive/folders/1WFnN_kQhkkYay9Fy7efbyyc-6NI2SmGZ) - This is a Google Drive folder containing various relevant documents (though some are outdated).
 
