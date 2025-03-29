@@ -16,7 +16,7 @@
    2. If the person doesn’t respond, you may send a follow-up email in a couple of weeks. If they continue to be unresponsive, you may mark the No Response in the “Reengage Applicant” column on the Outreach Log to indicate you will no longer try to mobilize them.
 4. Hold the meeting
 
-   1. [Link to onboarding meeting outline](https://docs.google.com/document/d/1v8AruUevritCvR6ijQKgSgM6yEw7Z2QKJe69bhCQLVs/edit)
+   1. [Link to onboarding meeting outline](https://docs.google.com/document/d/1u4kXIO1kl0QFFhFjYKEeBHOPYPCp0QmJdMn7Wh5OgLA/edit)
    2. Take notes on any important details such as a member’s background, skills, and interests. You can put these notes in the “Notes 1-on-1” column of the Outreach Log.
    3. Use the Active Mobilization Requests list to direct new members to where they’re needed most.
       1. [Link to Active Mobilization Requests list](https://docs.google.com/spreadsheets/d/1VCF6-W6jcej0UJvfd5N4ARrubjfkdPmEzT5pEiSsQpM/edit#gid=0)
