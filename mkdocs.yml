@@ -84,3 +84,4 @@ extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 repo_url: https://github.com/dsa-ntc/handbook
+edit_uri: edit/main/docs/
