@@ -20,7 +20,6 @@ nav:
     - gov-docs.md
     - security.md
     - team-roles.md
-    - glossary.md
 theme:
   name: "material"
   features:

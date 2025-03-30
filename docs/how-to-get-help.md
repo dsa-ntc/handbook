@@ -10,7 +10,6 @@ If you need help of a kind that this page does _not_ address, feel free to ask i
 ## For new joiners
 - Introduce yourself in the [#intros](https://dsa-ntc.slack.com/channels/intros) channel!
 - For help getting started as a member see the [Getting Started](./getting-started.md) article.
-- For help understanding certain terms or jargon in the organizational context of the NTC, check the [Glossary](./glossary.md).
 - For help finding work, ask in the [#d-mobilization](https://dsa-ntc.slack.com/channels/d-mobilization) slack channel.
 
 ## For help understanding NTC, or questions for a specific subcommittee, department, or commission
