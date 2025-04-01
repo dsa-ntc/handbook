@@ -1,7 +1,7 @@
 # Governance Docs
 
-Documents that _describe_ policy go in the [🔒handbook](https://github.com/dsa-ntc/handbook). Documents
-that _define_ policy go the the
+* Documents that _describe_ policy go in the [🔒handbook](https://github.com/dsa-ntc/handbook).
+* Documents that _define_ policy go in the
 [🔒gov docs](https://drive.google.com/drive/folders/1Q02NXa22YlZ1GMreLVUoPgKIliu21DtT?usp=share_link)
 
 How do you make changes to the gov docs? Read the official policy in full
